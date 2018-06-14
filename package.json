@@ -1,0 +1,26 @@
+{
+  "name": "sandboxapp1",
+  "version": "1.0.0",
+  "description": "This is a basic portfolio sandbox app that I'll link to from my sandbox server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/bradleypmartin/SandboxApp1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "web",
+    "application",
+    "development"
+  ],
+  "author": "Brad Martin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
